@@ -1,0 +1,52 @@
+
+Host Name:                 LAGAN
+OS Name:                   Microsoft Windows 11 Pro
+OS Version:                10.0.22631 N/A Build 22631
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          laganverma007@outlook.com
+Registered Organization:   
+Product ID:                00330-80000-00000-AA563
+Original Install Date:     1/28/2024, 10:20:13 AM
+System Boot Time:          4/13/2024, 11:00:20 PM
+System Manufacturer:       Micro-Star International Co., Ltd.
+System Model:              MS-7C89
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 165 Stepping 5 GenuineIntel ~2901 Mhz
+BIOS Version:              American Megatrends Inc. 1.91, 12/8/2020
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              00004009
+Time Zone:                 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Total Physical Memory:     32,706 MB
+Available Physical Memory: 22,585 MB
+Virtual Memory: Max Size:  34,754 MB
+Virtual Memory: Available: 22,749 MB
+Virtual Memory: In Use:    12,005 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\LAGAN
+Hotfix(s):                 5 Hotfix(s) Installed.
+                           [01]: KB5036620
+                           [02]: KB5027397
+                           [03]: KB5033055
+                           [04]: KB5036893
+                           [05]: KB5037020
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Intel(R) Ethernet Connection (12) I219-V
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.29.1
+                                 IP address(es)
+                                 [01]: 192.168.29.135
+                                 [02]: fe80::cf09:cc6d:ddd8:ee9e
+                                 [03]: 2405:201:5016:5013:f99c:20d3:350d:68f3
+                                 [04]: 2405:201:5016:5013:cefe:8230:55e5:42bf
+                           [02]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.

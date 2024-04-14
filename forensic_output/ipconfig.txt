@@ -1,0 +1,40 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Lagan
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (12) I219-V
+   Physical Address. . . . . . . . . : 2C-F0-5D-7A-D9-AA
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2405:201:5016:5013:cefe:8230:55e5:42bf(Preferred) 
+   Temporary IPv6 Address. . . . . . : 2405:201:5016:5013:f99c:20d3:350d:68f3(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::cf09:cc6d:ddd8:ee9e%15(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.29.135(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Saturday, April 13, 2024 11:00:45 PM
+   Lease Expires . . . . . . . . . . : Monday, April 15, 2024 1:05:42 PM
+   Default Gateway . . . . . . . . . : fe80::f2ed:b8ff:febc:4516%15
+                                       192.168.29.1
+   DHCP Server . . . . . . . . . . . : 192.168.29.1
+   DHCPv6 IAID . . . . . . . . . . . : 103608413
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2D-47-94-EA-2C-F0-5D-7A-D9-AA
+   DNS Servers . . . . . . . . . . . : 2405:201:5016:5013::c0a8:1d01
+                                       192.168.29.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 00-1A-7D-DA-71-15
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
